@@ -1,0 +1,6 @@
+{
+  "name": "Amirza Abolfazl",
+  "description": "An Amirza-inspired Persian word puzzle game featuring custom names Abolfazl and Nazari and creative levels with beautiful animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
